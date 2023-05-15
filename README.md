@@ -2,6 +2,12 @@
 
 ⚡ Low GPU memory? No problem. CPU offloading. ⚡
 
+
+https://github.com/JonathanFly/bark/assets/163408/40905966-dad8-4798-8b93-6eb27f8d20e9
+
+
+
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Lebdbbq7xOvl9Q430ly6sYrmYoDvlglM?usp=sharing) Basic Colab Notebook
 
 # 🌠 The Past: 🌠
