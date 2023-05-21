@@ -18,7 +18,7 @@ from bark_infinity import generation
 from bark_infinity import api
 
 
-generation.OFFLOAD_CPU = True
+generation.OFFLOAD_CPU = False
 generation.USE_SMALL_MODELS = False
 
 base_theme = gr.themes.Base()
@@ -581,5 +581,5 @@ with gr.Blocks(theme=default_theme,css=bark_console_style) as demo:
 
  
 
-demo.queue().launch()
+demo.queue().launch(share=True)
 
